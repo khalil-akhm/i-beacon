@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">iBeacon</string>
+    <string name="uuid">UUID:</string>
+    <string name="distance">Растояние:</string>
+    <string name="rssi">RSSI:</string>
+    <string name="minor">Minor:</string>
+    <string name="major">Major:</string>
+    <string name="distance_m">%1$s м</string>
+    <string name="delete_all">Удалить все</string>
+
+    <string name="location_access">Это приложение требует доступа к местоположению</string>
+    <string name="location_access_back_text">Пожалуйста, предоставьте доступ к местоположению, чтобы это приложение могло обнаруживать маяки в фоновом режиме.</string>
+    <string name="functionality_limited">Функциональность ограничена</string>
+    <string name="functionality_limited_text">Поскольку фоновый доступ к данным не был предоставлен, это приложение не сможет обнаруживать маяки в фоновом режиме. Перейдите в «Настройки» -> «Приложения» -> «Разрешения» и предоставьте фоновый доступ к этому приложению ».</string>
+    <string name="location_access_text">Пожалуйста, предоставьте доступ к местоположению, чтобы это приложение могло обнаруживать маяки.</string>
+
+    <string name="bluetooth_not_enabled">Bluetooth не включен</string>
+    <string name="bluetooth_not_enabled_text">Пожалуйста, включите Bluetooth в настройках.</string>
+    <string name="bluetooth_le_not_enabled">Bluetooth LE не доступен</string>
+    <string name="bluetooth_le_not_enabled_text">Извините, это устройство не поддерживает Bluetooth LE</string>
+
+</resources>
